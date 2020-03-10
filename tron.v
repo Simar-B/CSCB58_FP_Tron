@@ -1,3 +1,6 @@
+// Made by Manav Patel and Simar Bassi
+
+
 module tron(SW, HEX0, HEX1, HEX2, HEX3)
     input [17:0] SW;
     output [6:0] HEX0, HEX1, HEX2, HEX3;
